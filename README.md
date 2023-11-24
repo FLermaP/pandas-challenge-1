@@ -10,6 +10,7 @@ First Challenge Homework using Pandas fort Data Extraction and Transformation
   - list()
   - .round()
   - .insert()
+  - .rename()
   - .sort_values()
   - .reset_index()
   - .map *(for column formating)*
