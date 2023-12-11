@@ -1,5 +1,5 @@
 # pandas-challenge-1
-First Challenge Homework using Pandas fort Data Extraction and Transformation
+First Challenge Homework using Pandas for Data Extraction and Transformation
 # This excercised was ran/executed in Jupiter Notebooks
 ## Tasks practiced:
 - Creating a DataFrame out of a csv file
